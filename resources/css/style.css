@@ -5,13 +5,30 @@ body {
 
 }
 
+/* HEADINGS */
+
 .header--main {
     color: #FFF;
     font-weight: normal;
     font-size: 50px;
 }
 
+.header--secondary {
+    color: #FFF;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.header--sub-header {
+    font-size: 21px;
+    color: gray;
+    
+}
+
+/* LINKS */
+
 .link--cta {
     color: aquamarine;
     font-size: 16px;
 }
+
